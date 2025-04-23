@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on mobile robotics
 <!--
-**alanexplorer/alanexplorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alan-pereira-meitech/alan-pereira-meitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 
 <div>
-<a href="https://github.com/alanexplorer">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanexplorer&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanexplorer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/alan-pereira-meitech">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-pereira-meitech&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alan-pereira-meitech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
