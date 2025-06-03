@@ -6,7 +6,7 @@
 <p align="center">
   <strong>Robotics Software Engineer</strong> specializing in mobile robots, embedded systems & computer vision  
   <br/>
-  🔭 Currently at <em>Meitech</em> working on cumputer vision
+  🔭 Currently at <em>Meitech</em> working on computer vision
   <br/>
   📫 Reach me at <a href="mailto:alan.pereira@meitech.com">alan.pereira@meitech.com</a>  
   <br/>
