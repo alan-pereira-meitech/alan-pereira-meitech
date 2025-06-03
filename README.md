@@ -8,9 +8,11 @@
   <br/>
   🔭 Currently at <em>Meitech</em> working on computer vision
   <br/>
-  📫 Reach me at <a href="mailto:alan.pereira@meitech.com">alan.pereira@meitech.com</a>  
+  📫 Reach me at <a href="mailto:alan.pereira@meitech.com">alan.pereira@meitech.com</a>
   <br/>
-  🌱 Learning advanced ROS2 design patterns, CAN-bus integration & real-time vision  
+  [LinkedIn](https://www.linkedin.com/in/<perfil>)
+  <br/>
+  🌱 Learning advanced ROS2 design patterns, CAN-bus integration & real-time vision
   <br/>
   ⚡ Fun fact: built a FastAPI + WebSocket simulator for a multi-head weighing system  
 </p>
