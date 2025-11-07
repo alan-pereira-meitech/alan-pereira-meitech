@@ -4,17 +4,15 @@
 
 <h1 align="center">👋 Hello, I’m Alan Pereira</h1>
 <p align="center">
-  <strong>Robotics Software Engineer</strong> specializing in mobile robots, embedded systems & computer vision  
+  <strong>Robotics Software Engineer</strong> focused on mobile robots, embedded systems & computer vision  
   <br/>
-  🔭 Currently at <em>Meitech</em> working on computer vision
+  🔭 Currently at <em>Meitech</em> on computer vision projects  
   <br/>
-  📫 Reach me at <a href="mailto:alan.pereira@meitech.com">alan.pereira@meitech.com</a>
+  📫 <a href="mailto:alan.pereira@meitech.com">alan.pereira@meitech.com</a> · <a href="https://www.linkedin.com/in/&lt;perfil&gt;">LinkedIn</a>
   <br/>
-  <a href="https://www.linkedin.com/in/&lt;perfil&gt;">LinkedIn</a>
+  🌱 Learning ROS2 patterns, CAN-bus integration & real-time vision
   <br/>
-  🌱 Learning advanced ROS2 design patterns, CAN-bus integration & real-time vision
-  <br/>
-  ⚡ Fun fact: built a FastAPI + WebSocket simulator for a multi-head weighing system  
+  ⚡ Built a FastAPI + WebSocket simulator for a multi-head weighing system
 </p>
 
 ---
@@ -37,9 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-pereira-meitech&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" loading="lazy" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=alan-pereira-meitech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" loading="lazy" height="160"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/alan-pereira-meitech/alan-pereira-meitech/blob/output/github-contribution-grid-snake.svg)
