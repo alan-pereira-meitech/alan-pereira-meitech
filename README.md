@@ -10,7 +10,7 @@
   <br/>
   📫 Reach me at <a href="mailto:alan.pereira@meitech.com">alan.pereira@meitech.com</a>
   <br/>
-  [LinkedIn](https://www.linkedin.com/in/<perfil>)
+  <a href="https://www.linkedin.com/in/&lt;perfil&gt;">LinkedIn</a>
   <br/>
   🌱 Learning advanced ROS2 design patterns, CAN-bus integration & real-time vision
   <br/>
@@ -37,3 +37,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-pereira-meitech&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" loading="lazy" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=alan-pereira-meitech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" loading="lazy" height="160"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/alan-pereira-meitech/alan-pereira-meitech/blob/output/github-contribution-grid-snake.svg)
